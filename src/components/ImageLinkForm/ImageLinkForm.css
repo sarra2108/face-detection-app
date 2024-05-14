@@ -1,0 +1,13 @@
+.form {
+  width: 700px;
+  background:
+  #89b6a4;
+  background-size:40px 60px;
+  position: relative; /* or position: absolute; */
+  top: 0px;
+
+}
+.magic{
+  position: relative; /* or position: absolute; */
+  top: 10px;
+}

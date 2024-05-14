@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 100vh; /* 100% of viewport height */
+  width: 100%; 
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+/* .particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+} */
+#ParticlesBackground {
+  /* position: relative;
+  z-index: 1; Adjust this value as needed */
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
